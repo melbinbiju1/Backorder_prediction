@@ -73,6 +73,11 @@ The main goal is to predict the whether a product comes in backorder or not base
 
 ![predictionpage](https://github.com/melbinbiju1/BackOrder-Prediction/assets/109647252/4e83867b-9377-475a-9dff-77cef66fa574)
 
+# Deployment Links
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ AWS link : http://backorder-beanstalk-app-env.eba-2ufpvt22.us-east-1.elasticbeanstalk.com/
+
  
  # Run Locally
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
